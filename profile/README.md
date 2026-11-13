@@ -29,6 +29,7 @@
 | [Liquidity Pool Creator](https://tokenry.tools/liquidity) | Open a pool on Raydium, Meteora, Uniswap, PancakeSwap, QuickSwap or VVS Finance, with an optional first buy | All 14 |
 | Add / Remove Liquidity, Claim Fees | Manage liquidity positions and collect trading fees | All 14 |
 | [Token Manager](https://tokenry.tools/token-manager) | Change the settings of an ERC-20 made with Tokenry: taxes, limits, minting, ownership | EVM chains |
+| [Update Metadata](https://tokenry.tools/update-solana-token-metadata), [Mint Tokens](https://tokenry.tools/mint-solana-tokens) and [Freeze Accounts](https://tokenry.tools/freeze-solana-token-account) | Edit a token's name, symbol, logo and details, mint more supply, or freeze and thaw holder accounts | Solana |
 | [Tax Token Creator](https://tokenry.tools/solana-tax-token-creator) and [Claim Tax](https://tokenry.tools/solana-claim-tax) | Token-2022 tokens with a transfer tax, and collecting it | Solana |
 | [Revoke Authority](https://tokenry.tools/revoke-mint-authority) | Revoke mint, freeze or update authority for good | Solana |
 | [LP Burner](https://tokenry.tools/solana-lp-burner) | Lock liquidity and keep its fees, or burn LP tokens | Solana |
